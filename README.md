@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio Website - MYC!
 
-## Getting Started
+Live Demo: [https://portfolio2-psi-taupe.vercel.app](https://portfolio2-psi-taupe.vercel.app)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Clean and minimalistic design with smooth scrolling
+- Interactive sidebar navigation
+- Animated logo loop on hover/scroll
+- Clickable social media icons at the bottom (LinkedIn, GitHub, etc.)
+- Responsive layout — works great on mobile, tablet, and desktop
+- Sections:
+  - Hero / Introduction
+  - Education Journey
+  - Working Experiences
+  - Leadership & Involvement
+  - Skills & Technologies
+  - Hobbies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework**: Next.js (App Router)
+- **Styling**: Tailwind CSS
+- **Deployment**: Vercel
+- **Language**: TypeScript / JavaScript
+- **Other libraries**: Framer Motion, React Icons. AnimateUI, ReactBits, MaterialUi
 
-## Learn More
+## Sections Overview
 
-To learn more about Next.js, take a look at the following resources:
+- **Hero** — Greeting + quick intro
+- **Education** — High school → Matriculation → Bachelor's degree
+- **Experience** — Internships (Infopro Sdn Bhd - backend/banking), apprenticeships (UI/Graphic Design)
+- **Leadership** — Student roles, hackathon participations 
+- **Skills** — C++, Java, JavaScript, Dart, SQL, PHP, React, Node.js, Express, Tailwind, Flutter, etc.
+- **Socials** — Clickable icons linking to profiles
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Quick Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Watch a short walkthrough (with commentary):
 
-## Deploy on Vercel
+[![Portfolio Demo](https://img.youtube.com/vi/aLv9hO5x_L8/0.jpg)](https://youtu.be/aLv9hO5x_L8)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[View on YouTube →](https://youtu.be/aLv9hO5x_L8)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Note: Audio is a bit scuffed — sorry about that!

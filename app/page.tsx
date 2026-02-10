@@ -454,7 +454,7 @@ const items = [
             Languages
           </h2>
           <div className="grid grid-cols-2">
-            <SkillProgress skill="Malay" level={80} />
+            <SkillProgress skill="Malay" level={100} />
             <SkillProgress skill="English" level={75} />
           </div>
         </div>
